@@ -10,4 +10,4 @@ React Native
 <img src='Img/Help.jpg' height=700 width="40%">
 
 ### APK 
-<a href='app-release.apk'>Click Here</a>
+<a href='https://drive.google.com/file/d/1WpRBlyLbGjrDUUFJYSZgdhx-867J1Ena/view?usp=sharing'>Click Here to download APK</a>
