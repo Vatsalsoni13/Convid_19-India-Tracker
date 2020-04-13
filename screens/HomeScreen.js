@@ -166,6 +166,11 @@ export default class HomeScreen extends React.Component {
                   });
                 }}>
                 <Card style={styles.listItem}>
+                  <View style={{alignItems:'flex-end'}}>
+                    <Text style={{fontSize:11,marginTop:-20,color:'#c846f0'}}>
+                      Last Updated:{item.lastupdatedtime}
+                    </Text>
+                  </View>
                   <View
                     style={{
                       flex: 1,
@@ -266,7 +271,7 @@ export default class HomeScreen extends React.Component {
                       'https://github.com/Vatsalsoni13/Convid_19-India-Tracker',
                     );
                   }}>
-                  <Text style={{fontSize: 9}}>
+                  <Text style={{fontSize: 9,color:'blue'}}>
                     https://github.com/Vatsalsoni13/Convid_19-India-Tracker
                   </Text>
                 </TouchableOpacity>
